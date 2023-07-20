@@ -1,0 +1,47 @@
+/* .how-to-buy{
+    width: 100%;
+    justify-content: center;
+    text-align: center;
+    padding: 50px 0 0 0;
+    display: flex;
+    height: 700px;
+}
+.how-to-buy-con{
+    display: flex;
+    text-align: center;
+    width: 100%;
+    flex-direction: column;
+
+}
+.section-title{
+    text-transform: uppercase;
+    font-size: 50px;
+    
+
+}
+.four{
+    background-attachment: fixed;
+    height: 200px;
+    width: auto;
+    justify-content: space-between;
+
+
+
+}
+.fourr{
+font: 70px;
+}
+<section class="how-to-buy">
+        <div class="how-to-buy-con">
+            <h2 class="section-title"> how to buy</h2>
+        </div>
+    </section <div class="four">
+        <div class="fourr">
+        <a href="#" >open products page  </a>
+        <a href="#" >click learn more </a>
+        <a href="#" > fill the form </a>
+        <a href="#" >enjoy u product </a>
+    </div>
+    </div>
+
+    <section >
